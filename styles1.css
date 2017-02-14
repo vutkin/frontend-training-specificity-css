@@ -1,0 +1,13 @@
+div {
+    color: blue;
+    font-weight: bold;
+}
+
+#divID {
+    color: gold;
+}
+
+div.test {
+    color:magenta !important;
+}
+

@@ -1,0 +1,8 @@
+.test {
+    color: red;
+}
+
+div {
+    color: green !important;
+    font-weight: bold;
+}
